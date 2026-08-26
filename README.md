@@ -38,11 +38,15 @@ Experiência como professor de inglês, desenvolvendo habilidades de comunicaç�
 📈 Contribuições
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EltonLLeite&theme=tokyonight" /> </div>
 Atualmente
-Estudando Ciência da Computação </div>
-Aprofundando conhecimentos em C, C++ e Python </div>
-Desenvolvendo conhecimentos em programação e algoritmos </div>
-Aprimorando o uso de Git e GitHub </div>
-Buscando evoluir para atuar profissionalmente como desenvolvedor de software </div>
+Estudando Ciência da Computação
+</div>
+Aprofundando conhecimentos em C, C++ e Python
+</div>
+Desenvolvendo conhecimentos em programação e algoritmos
+</div>
+Aprimorando o uso de Git e GitHub 
+</div>
+Buscando evoluir para atuar profissionalmente como desenvolvedor de software
 
 📫 Entre em contato
 <div align="center"> <a href="https://br.linkedin.com/in/elton-luis-leite-junior-035a26425"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/ellt.p"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:elton.leite@ufn.edu.br"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
