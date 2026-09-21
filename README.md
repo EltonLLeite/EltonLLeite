@@ -33,9 +33,8 @@ Ferramentas
 
 Experiência como professor de inglês, desenvolvendo habilidades de comunicação, organização, responsabilidade e trabalho com pessoas.
 
-
-📈 Contribuições
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EltonLLeite&theme=tokyonight" /> </div>
+📊 Estatísticas do GitHub
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EltonLLeite&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonLLeite&layout=compact&langs_count=7&theme=tokyonight"/> </div>
 Atualmente
 Estudando Ciência da Computação
 </div>
